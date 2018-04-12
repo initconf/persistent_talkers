@@ -1,0 +1,6 @@
+[package]
+description = scripts to detect beaconing and persistent long last time connections exhibiting a periodicity 
+tags = beacon, periodicity, persistent connections, exfiltration 
+version = 0.0.1
+script_dir = scripts
+test_command = ( cd tests && btest -d )
